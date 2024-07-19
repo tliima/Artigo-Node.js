@@ -118,11 +118,11 @@ app.listen(3000, () => {
 });
 ```
 
-### Call to Action
+
 
 E aí, gostou de aprender sobre o Node.js? Se sim, me siga nas redes sociais para mais dicas e truques incríveis sobre desenvolvimento back-end!
 
-### Hashtags
+
 
 #NodeJS #WebDevelopment #Back-end
 
